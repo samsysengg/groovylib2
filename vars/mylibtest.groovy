@@ -1,4 +1,4 @@
 def greeting(name)
 {
-  echo 'hello,${name}'
+ return "Hello, ${name}!"
 }
